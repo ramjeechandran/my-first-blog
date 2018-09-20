@@ -16,9 +16,9 @@ h3 a {
 	}
 
 body {
-	padding: 100;
+	padding: 40;
 	padding-top: 0;
-	width: 800;
+	width: 100%;
 }	
 h1, h2, h3, h4 {
 	font-family: times;
